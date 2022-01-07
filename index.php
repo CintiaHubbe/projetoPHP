@@ -1,7 +1,5 @@
 <?php
-
- 	echo "Olá Mundo 2022 de novo!!!";
+ 	echo "Olá Mundo 2022!!!";
  	
  	echo "Olá Udemy!!!";
-
 ?>
