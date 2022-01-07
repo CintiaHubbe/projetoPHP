@@ -1,4 +1,4 @@
 <?php
- 	echo "Olá Mundo 2022!!!";
-  echo "Hcode!!!";
+ echo "Olá Mundo 2022!!!";
+ echo "Hcode!!!";
 ?>
